@@ -1,0 +1,276 @@
+.head {
+    background-image: url("../img/headbg.png");
+    padding-bottom: 150px;
+    width: 100%;
+    background-blend-mode: multiply;
+    background-repeat: no-repeat;
+    background-color: #3c335e;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.list {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+
+.list-unit {
+    text-decoration: none;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-transform: uppercase;
+    color: white;
+}
+
+.greets {
+    text-align: center;
+    padding: 150px;
+    color: white;
+}
+
+.greets-text {
+    width: 780px;
+    margin: 0 auto;
+    color: white;
+
+}
+
+.button {
+    margin-top: 20px;
+    text-transform: uppercase;
+}
+
+.container {
+    width: 960px;
+    margin: 0 auto;
+}
+
+.story {
+    display: flex;
+    margin-bottom: 70px;
+    margin-top: 70px;
+}
+
+.story-part{
+    margin-left: 100px;
+}
+
+.story-text {
+    width: 540px;
+}
+
+.video {
+    background-image: url("../img/newyork.png");
+    background-blend-mode: multiply;
+    background-repeat: no-repeat;
+    background-color: #3c335e;
+    width: 100%;
+    padding-bottom: 180px;
+    color: white;
+    text-align: center;
+    margin-bottom: 73px;
+}
+
+.playbutton {
+    padding-top: 200px;
+}
+
+.watchvid {
+    padding-left: 5px;
+}
+
+.professions {
+    text-align: center;
+}
+
+.expertise {
+    padding-bottom: 105px;
+}
+
+.first-3 {
+    display:flex;
+    margin-bottom: 80px;
+}
+
+.job {
+    width: 310px;
+}
+
+.design {
+    padding-top: 8px;
+}
+
+.second-3 {
+    display: flex;
+    margin-bottom: 102px;
+}
+
+.team {
+    background-image: url("../img/overlay.png");
+    background-blend-mode: multiply;
+    background-repeat: no-repeat;
+    background-color: #3c335e;
+    width: 100%;
+    color:white;
+
+}
+
+.meet-our-team {
+    text-align: center;
+    padding-top: 70px;
+}
+
+.teammates {
+    display: flex;
+}
+
+.mate {
+    margin-left:50px;
+    width:940px;
+    text-align: center;
+}
+
+.join {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 70px;
+}
+
+.works {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 70px;
+    margin-top: 70px;
+}
+
+.projects {
+    padding-top: 25px;
+    text-decoration: none;
+    color: gray;
+}
+
+.bg{
+    background-color: gray;
+    width: 100%;
+    padding-bottom: 400px;
+}
+
+.load-more {
+    margin-top: 70px;
+    margin-left: 705px;
+    margin-bottom: 75px;
+}
+
+.quotes {
+    background-image: url(../img/quotebg.png);
+    background-blend-mode: multiply;
+    background-repeat: no-repeat;
+    background-color: #3c335e;
+    padding-top: 25px;
+    padding-bottom: 100px;
+    width: 100%;
+}
+
+.quote {
+    width:780px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 140px;
+    color:white;
+}
+
+.quote-artist {
+    padding-top: 50px;
+}
+
+.news-clients {
+    display: flex;
+}
+
+.field {
+    width: 445px;
+    height: 45px;
+    margin-bottom: 25px;
+    padding-left: 15px;
+}
+
+.message-field {
+    width: 445px;
+    padding-left: 15px;
+    height: 200px;
+}
+
+.submit {
+    margin-top:25px;
+    margin-bottom: 73px;
+}
+
+.clients {
+    width: 380px;
+}
+
+.two-comps {
+    display: flex;
+
+}
+
+.first-of-two {
+    padding-right: 60px;
+    padding-bottom: 22px;
+    padding-top: 22px;
+    width: 140px;
+}
+
+.second-of-two {
+    padding-left: 60px;
+    width: 140px;
+}
+
+.foot {
+    background-image: url(../img/footer.png);
+    background-blend-mode: multiply;
+    background-repeat: no-repeat;
+    background-color: #3c335e;
+    width: 100%;
+    padding-bottom:125px;
+    color: white;
+}
+
+.footer-parts {
+    display: flex;
+    padding-top: 71px;
+}
+
+.first-part {
+    width: 300px;
+    padding-right: 35px;
+}
+
+.address {
+    width:270px;
+}
+
+.newsletter {
+    width: 211px;
+    height: 45px;
+    padding-left: 15px;
+    background: transparent;
+    color: white;
+}
+
+.help {
+    list-style: none;
+    display: flex;
+    text-align: center;
+}
+
+.help-unit {
+    text-transform: uppercase;
+    text-decoration: none;
+    color:white;
+}
+
